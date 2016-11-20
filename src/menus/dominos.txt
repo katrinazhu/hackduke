@@ -1,0 +1,21 @@
+Type: Pizza
+Name: Cheese
+Meat: none
+Condiments: none
+Sizes: Small Medium Large
+Calories: 1130 1510 2050
+Price: 7.99 9.99 11.99
+
+Name: Pepperoni
+Meat: Pork
+Condiments: none
+Sizes: Small Medium Large
+Calories: 1165 1563 2121
+Price: 9.24 11.49 13.73
+
+Name: BuffaloChicken
+Meat: Chicken
+Condiments: Spicy
+Sizes: Small Medium Large
+Calories: 1240 1665 2275
+Price: 12.99 14.99 16.99
